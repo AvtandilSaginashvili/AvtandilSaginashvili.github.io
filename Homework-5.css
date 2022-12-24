@@ -1,0 +1,110 @@
+body {
+    width: 1440px;
+    height: 1024px;
+    top: -512px;
+    left: -720px;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(Inter-Black.ttf);
+}
+
+@font-face {
+        font-family: InterL;
+        src: url(InterL.ttf);
+}
+
+.image-1 {
+    width: 647px;
+    height: 323px;
+    margin-top: 20px;
+    margin-left: 415px;
+}
+
+.image-2 {
+    width: 171px;
+    height: 222px;
+    padding-top: 29px;
+}
+
+.mydiv1 {
+    margin-left: 514px;
+}
+
+.h4-1 {
+    margin-left: 171px;
+    padding-left: 12px;
+    margin-bottom: 0;
+    margin-top: -222px;
+    color: black;
+    font-family: Inter;
+    width: 267px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.p-1 {
+    width: 208px;
+    margin-left: 171px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 13px;
+    padding-top: 8px;
+    font-family: InterL;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+}
+
+.mydiv2 {
+    margin-left: 514px;
+    display: flex;
+    align-items: center;
+}
+
+.h1-1 {
+    width: 267px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.mydiv3 {
+    padding-top: 31px;
+}
+
+.mydiv3 h3 {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 700;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.mydiv3 p {
+    width: 175px;
+    font-family: InterL;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 0;
+}
+
+.image-3 {
+    width: 208px;
+    height: 322px;
+    margin-top: 10px;
+    margin-left: -90px;
+}
