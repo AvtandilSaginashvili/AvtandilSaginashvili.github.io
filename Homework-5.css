@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(Inter-Black.ttf);
+}
+
+@font-face {
+        font-family: InterL;
+        src: url(InterL.ttf);
+}
+
+.mydiv {
+    display: flex;
+    justify-content: center;
+}
+
+.image-1 {
+    width: 647px;
+    height: 323px;
+}
+
+.mydiv1 {
+    margin: 0px;
+    padding-left: 355px;
+    padding-top: 29px;
+    padding-bottom: 33px;
+    display: flex;
+    justify-content: center;
+}
+
+.mydiv1-1 {
+    width: 171px;
+    height: 222px;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin: 0px;
+    padding-right: 355px;
+    padding-left: 9px;
+}
+
+.h4-1 {
+    margin: 0px;
+    color: black;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.p-1 {
+    margin: 0px;
+    padding-top: 5px;
+    font-family: InterL;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+}
+
+.mydiv2 {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    padding-top: 29px;
+    padding-bottom: 46px;
+}
+
+.h1-1 {
+    padding-bottom: 30px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.mydiv3 {
+    margin: 0px;
+}
+
+.mydiv3 h3 {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 0px;
+    padding-top: 8px;
+}
+
+.mydiv3 p {
+    font-family: InterL;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: black;
+    margin: 0px;
+    padding-top: 1px;
+
+}
+
+.image-3 {
+    width: 208px;
+    height: 322px;
+    padding-left: 9px;
+    padding-top: 5px;
+}
